@@ -1,0 +1,6 @@
+﻿  SubjectIndex.cpp
+c:\users\1\source\repos\subjectindex\subjectindex\subjectindex.cpp(232): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\source\repos\subjectindex\subjectindex\subjectindex.cpp(258): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\source\repos\subjectindex\subjectindex\subjectindex.cpp(282): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\source\repos\subjectindex\subjectindex\subjectindex.cpp(322): warning C4018: <: несоответствие типов со знаком и без знака
+  SubjectIndex.vcxproj -> C:\Users\1\source\repos\SubjectIndex\Debug\SubjectIndex.exe
